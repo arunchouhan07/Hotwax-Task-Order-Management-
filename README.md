@@ -1,4 +1,4 @@
-# HotwaxTask_Order_Mang.
+# Hotwax-Task-Order-Management.
 This is the Spring Boot Rest API task assigned by Hotwax Company.
 
 ## 1. Table Contex
